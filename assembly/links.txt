@@ -1,0 +1,7 @@
+http://en.wikipedia.org/wiki/X86_instruction_listings
+http://www.ibiblio.org/gferg/ldp/GCC-Inline-Assembly-HOWTO.html
+http://cs.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html
+http://www.codeproject.com/Articles/15971/Using-Inline-Assembly-in-C-C
+http://www.eecg.toronto.edu/~amza/www.mindsec.com/files/x86regs.html
+http://asm.sourceforge.net/articles/linasm.html
+http://www.penguin.cz/~literakl/intel/intel.html
